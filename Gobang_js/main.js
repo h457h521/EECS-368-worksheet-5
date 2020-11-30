@@ -39,7 +39,7 @@ lbtn.addEventListener("click",function(){
      }
 })
 aibtn.addEventListener("click",function(){
-    ai=true;
+    ai = true;
     var num=prompt("Please enter the board size",14);
             len=Number(num);
             document.getElementById('chessboard').width=len*30+30;
