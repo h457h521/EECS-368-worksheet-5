@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    background-color: #ccc;
+
+}
+
+#btn{
+    display:block;
+    margin:20px auto;
+    width:100px;
+    padding:10px 10px;
+    background-color:#8f7b65;
+    font-family:Arial;
+    color:white;
+    outline: none;
+    border-radius:10px;
+    text-decoration:none;
+}
+#aibtn{
+    display:block;
+    margin:20px auto;
+    width:140px;
+    padding:10px 10px;
+    background-color:#8f7b65;
+    font-family:Arial;
+    color:white;
+    outline: none;
+    border-radius:10px;
+    text-decoration:none;
+}
+#lbtn{
+    display:block;
+    margin:20px auto;
+    width:100px;
+    padding:10px 10px;
+    background-color:#8f7b65;
+    font-family:Arial;
+    color:white;
+    outline: none;
+    border-radius:10px;
+    text-decoration:none;
+}
+#sbtn{
+    display:block;
+    margin:20px auto;
+    width:100px;
+    padding:10px 10px;
+    background-color:#8f7b65;
+    font-family:Arial;
+    color:white;
+    outline: none;
+    border-radius:10px;
+    text-decoration:none;
+}
+canvas{
+    display: block;
+    margin: 30px auto;
+    background-color: #8f7b65;
+}
