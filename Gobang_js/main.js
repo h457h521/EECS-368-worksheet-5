@@ -9,7 +9,7 @@ var step = 0;
 var flag = false;
 var len = 20;
 var ldx,ldy;
-var ai=false
+var ai = false
 var checkMode = [
     [1,0],
     [0,1],
