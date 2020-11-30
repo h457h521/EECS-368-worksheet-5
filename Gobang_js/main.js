@@ -7,7 +7,7 @@ var chessMap = [];
 var chessColor = ["black", "white"];
 var step = 0;
 var flag = false;
-var len=20;
+var len = 20;
 var ldx,ldy;
 var ai=false
 var checkMode = [
